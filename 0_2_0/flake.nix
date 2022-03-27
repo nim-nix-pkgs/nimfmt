@@ -11,6 +11,7 @@
   inputs.src-nimfmt-0_2_0.ref   = "refs/tags/0.2.0";
   inputs.src-nimfmt-0_2_0.owner = "FedericoCeratto";
   inputs.src-nimfmt-0_2_0.repo  = "nimfmt";
+  inputs.src-nimfmt-0_2_0.dir   = "";
   inputs.src-nimfmt-0_2_0.type  = "github";
   
   inputs."compiler".owner = "nim-nix-pkgs";
